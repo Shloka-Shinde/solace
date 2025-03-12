@@ -123,4 +123,4 @@ We plan to expand Solace with the following features:
 - [@Shloka-Shinde](https://github.com/Shloka-Shinde)
 - [@Mruganksha](https://github.com/Mruganksha)
 - [@aasthaaj05](https://github.com/aasthaaj05)
-- [akanshapatil25](https://github.com/akanshapatil25)
+- [@akanshapatil25](https://github.com/akanshapatil25)
